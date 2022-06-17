@@ -3,3 +3,5 @@ plugins:
 - jekyll-remote-theme
 github:
   repository_url: https://github.com/Kin-kay
+title: T.W. Toy Integration - by Kin-Kay
+description: A guide on how to get your toy to work with T.W.
